@@ -31,3 +31,4 @@ C:\Users\Francisco.Esilva\Documents\moduloapi\obj\Debug\net8.0\refint\moduloapi.
 C:\Users\Francisco.Esilva\Documents\moduloapi\obj\Debug\net8.0\moduloapi.pdb
 C:\Users\Francisco.Esilva\Documents\moduloapi\obj\Debug\net8.0\moduloapi.genruntimeconfig.cache
 C:\Users\Francisco.Esilva\Documents\moduloapi\obj\Debug\net8.0\ref\moduloapi.dll
+C:\Users\Francisco.Esilva\Documents\moduloapi\obj\Debug\net8.0\moduloapi.sourcelink.json
